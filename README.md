@@ -11,7 +11,6 @@
 </br>
 
 ## How to access the game?
----
 First clone this repository to your local machine, by using the following command:
 
 
@@ -21,7 +20,6 @@ $ git clone https://github.com/Slamrap/RacingKnowledge.git
 </br>
 
 ## How to open the project in unity?
----
 Steps:
 * Open unity hub & click on the **Projects** tab
 * Next click on the **Add** button
@@ -31,17 +29,13 @@ Steps:
 </br>
 
 ## How to execute the windows build?
----
 Steps:
 * Navigate to /FinalProject/Builds/Windows
 * Double click the **Project.exe** file to execute it
 
 </br>
 
-## Demo
----
-<video width="320" height="240" controls>
-  <source src="https://github.com/Slamrap/RacingKnowledge/blob/master/Resources/RacingKnowledge-Demo.mp4" type="video/mp4">
-</video>
+## Screenshot
+![Screenshot-Level2](https://github.com/Slamrap/RacingKnowledge/blob/master/Resources/Level2-Screenshot.png)
 
 <i>This project was made for a Computer Graphics class.</i>
