@@ -41,7 +41,7 @@ Steps:
 ## Demo
 ---
 <video width="320" height="240" controls>
-  <source src="add-LinkToSource" type="video/mp4">
+  <source src="https://github.com/Slamrap/RacingKnowledge/blob/master/Resources/RacingKnowledge-Demo.mp4" type="video/mp4">
 </video>
 
 <i>This project was made for a Computer Graphics class.</i>
